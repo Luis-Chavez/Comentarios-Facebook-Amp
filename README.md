@@ -24,6 +24,8 @@ Facil?
 
 Para ver las isntrucciones completas presione el boton que dice Blame, justo a lado derecho 
 
+Demostración: http://amphtmlejemplos.blogspot.com/2016/12/que-es-amp-paginas-moviles-aceleradas.html
+
 
   
   
