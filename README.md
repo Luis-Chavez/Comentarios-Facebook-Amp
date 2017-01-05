@@ -21,5 +21,9 @@ Ingrese el nombre de su sitio web o blog
 Eso es todo, un clic en Guardar
 
 Facil?
+
+Para ver las isntrucciones completas presione el boton que dice Blame, justo a lado derecho 
+
+
   
   
